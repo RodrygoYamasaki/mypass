@@ -1,4 +1,5 @@
 # 🔐 MyPass
+Web app para armazenamento e gerenciamento seguro de senhas. Desenvolvido em Spring Boot, utiliza Spring Security e OAuth2 Resource Server para oferecer autenticação e autorização robustas, garantindo acesso protegido às APIs e armazenamento cifrado das credenciais, proporcionando segurança e praticidade no gerenciamento de informações sensíveis.
 
 ## 🧩 Tecnologias e Dependências
 
