@@ -16,10 +16,6 @@ Web app para armazenar senhas de forma segura. Desenvolvido em Spring Boot, util
 
 ---
 
-## 🧩 Endpoints
-
----
-
 ## 🚀 Como Usar
 
 1. **Clone o Repositório:**
