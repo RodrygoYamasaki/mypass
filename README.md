@@ -16,6 +16,10 @@ Web app para armazenar senhas de forma segura. Desenvolvido em Spring Boot, util
 
 ---
 
+## 🧩 Endpoints
+
+---
+
 ## 🚀 Como Usar
 
 1. **Clone o Repositório:**
@@ -32,12 +36,3 @@ Web app para armazenar senhas de forma segura. Desenvolvido em Spring Boot, util
    ```
 
 4. **Testar a API: Use o Insomnia para enviar requisições HTTP.**
-
-   ```bash
-   GET http://localhost:8080/pass
-   ```
-
-   ```bash
-   POST http://localhost:8080/login
-   ```
-   
